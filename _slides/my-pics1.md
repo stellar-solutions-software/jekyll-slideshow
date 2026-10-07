@@ -4,6 +4,9 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
+mode: fade
+autoHeight: true
+autoWidth: true
 ---
 
 * ![Picture of Joe 1](my-pics1/joe_1.jpg)
