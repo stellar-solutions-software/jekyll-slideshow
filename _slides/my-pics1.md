@@ -4,8 +4,8 @@ title: My slideshow
 item: 1
 auto: true
 loop: true
-mode: fade
-autoHeight: true
+mode: 'fade'
+adaptiveHeight: true
 autoWidth: true
 ---
 
