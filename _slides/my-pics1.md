@@ -5,6 +5,8 @@ item: 1
 auto: true
 loop: true
 mode: 'fade'
+autoWidth: true
+adaptiveHeight: true
 ---
 
 * ![Picture of Joe 1](my-pics1/joe_1_800x600.jpg)
